@@ -1,5 +1,5 @@
 print('Введите два целых числа:')
 a=int(input())
 b=int(input())
-print(a+b)
 print(a-b)
+print('Вывел минус')
